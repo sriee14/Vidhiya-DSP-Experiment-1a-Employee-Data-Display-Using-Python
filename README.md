@@ -6,11 +6,6 @@ To collect employee details, validate inputs, and calculate gross and net salary
 
 ## Algorithm
 
-
-## Employee Salary Calculation Program
-
-### Algorithm / Steps
-
 1. Start the program.
 
 2. **Read Employee Details** from the user:
@@ -91,19 +86,19 @@ print(f"Net Salary: {net}")
 ```
 ## Output
 ```
-Enter Employee Name: Santhosh M
-Enter Employee ID: 212225410118
-Enter Basic Pay: 200000
+Enter Employee Name: Vidhiya Pavisha Sriee c j
+Enter Employee ID: 212225410227
+Enter Basic Pay: 50000
 
 --- Employee Salary Report ---
-Employee Name: Nagaraj S
-Employee ID: 212225410118
-Basic Pay: 200000.0
-HRA: 15000.0
-DA: 10000.0
-Gross Salary: 225000.0
-Tax Deducted: 10000.0
-Net Salary: 215000.0
+Employee Name: Vidhiya Pavisha Sriee c j
+Employee ID: 212225410227
+Basic Pay: 50000.0
+HRA: 7500.0
+DA: 5000.0
+Gross Salary: 62500.0
+Tax Deducted: 5000.0
+Net Salary: 57500.0
 ```
 ## Result
 
